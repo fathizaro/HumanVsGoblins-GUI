@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.TilePane?>
+
+<?import javax.swing.text.html.ImageView?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.gameScreenController">
+    <children>
+        <TilePane layoutX="54.0" layoutY="78.0" prefHeight="642.0" prefWidth="642.0">
+            <children>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile040.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile041.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile042.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile043.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile044.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile040.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile041.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile042.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile043.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile041.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile042.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile043.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile044.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile090.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile144.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile190.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile295.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile190.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile144.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile240.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile241.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile149.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile345.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile346.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile347.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile044.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile140.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile345.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile346.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile348.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile048.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile290.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile291.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile299.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile144.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile146.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile147.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile149.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile194.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile190.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile094.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile196.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile197.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile140.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile194.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile146.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile147.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile149.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile295.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile240.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile340.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile246.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile247.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile248.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile196.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile197.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile140.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile092.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile093.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile091.png" />
+                    </image>
+                </ImageView>
+                <ImageView>
+                    <image>
+                        <Image url="@../tiles/tile194.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </TilePane>
+    </children>
+</AnchorPane>
